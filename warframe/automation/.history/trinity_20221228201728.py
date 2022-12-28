@@ -7,6 +7,14 @@ import threading
 
 import keyboard as mykeypressedboard
 
+keyboard = Controller()
+key = "2"
+
+time.sleep(10)
+
+endthread = False
+search = Search("exit.png")
+
 
 def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):
     time.sleep(castingdelay)
@@ -20,19 +28,10 @@ def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):
 
 def mythread():
     while True:
-        clicking("2", 0, 0, 10)
+        clicking("2", 0, 0, 0.1)
 
         if endthread:
             break
-
-
-keyboard = Controller()
-key = "2"
-
-time.sleep(10)
-
-endthread = False
-search = Search("exit.png")
 
 
 b = threading.Thread(name='background', target=mythread)

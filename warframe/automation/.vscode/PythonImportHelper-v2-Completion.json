@@ -1,5 +1,205 @@
 [
     {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
         "label": "*",
         "importPath": "screen_search",
         "description": "screen_search",
@@ -53,6 +253,590 @@
         "description": "screen_search",
         "isExtraImport": true,
         "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
         "documentation": {}
     },
     {
@@ -204,20 +988,2037 @@
         "documentation": {}
     },
     {
-        "label": "PROMPT",
-        "importPath": "cmd",
-        "description": "cmd",
-        "isExtraImport": true,
-        "detail": "cmd",
-        "documentation": {}
-    },
-    {
         "label": "pyautogui",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "pyautogui",
         "description": "pyautogui",
         "detail": "pyautogui",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221228201728",
+        "description": ".history.combined_20221228201728",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221228201728",
+        "description": ".history.combined_20221228201728",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221228201728",
+        "description": ".history.combined_20221228201728",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221228201728",
+        "description": ".history.combined_20221228201728",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case _:\n            image",
+        "detail": ".history.combined_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221228201728",
+        "description": ".history.combined_20221228201728",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": ".history.combined_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221228201728",
+        "description": ".history.combined_20221228201728",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221228201728",
+        "description": ".history.combined_20221228201728",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221228201728",
+        "description": ".history.combined_20221228201728",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case _:",
+        "detail": ".history.combined_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221228201728",
+        "description": ".history.combined_20221228201728",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221228201728",
+        "description": ".history.combined_20221228201728",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221228201728",
+        "description": ".history.combined_20221228201728",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"inptu\")\n    time.sleep(10)\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000104",
+        "description": ".history.combined_20221229000104",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229000104",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000104",
+        "description": ".history.combined_20221229000104",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229000104",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000104",
+        "description": ".history.combined_20221229000104",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229000104",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000104",
+        "description": ".history.combined_20221229000104",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            clicking(\"2\", 0, 0, 10)",
+        "detail": ".history.combined_20221229000104",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000104",
+        "description": ".history.combined_20221229000104",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": ".history.combined_20221229000104",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000104",
+        "description": ".history.combined_20221229000104",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229000104",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000104",
+        "description": ".history.combined_20221229000104",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229000104",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000104",
+        "description": ".history.combined_20221229000104",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229000104",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000104",
+        "description": ".history.combined_20221229000104",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229000104",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000104",
+        "description": ".history.combined_20221229000104",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229000104",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000104",
+        "description": ".history.combined_20221229000104",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"inptu\")\n    time.sleep(10)\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229000104",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000112",
+        "description": ".history.combined_20221229000112",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229000112",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000112",
+        "description": ".history.combined_20221229000112",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229000112",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000112",
+        "description": ".history.combined_20221229000112",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229000112",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000112",
+        "description": ".history.combined_20221229000112",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            clicking(\"2\", 0, 0, 10)",
+        "detail": ".history.combined_20221229000112",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000112",
+        "description": ".history.combined_20221229000112",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": ".history.combined_20221229000112",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000112",
+        "description": ".history.combined_20221229000112",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229000112",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000112",
+        "description": ".history.combined_20221229000112",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229000112",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000112",
+        "description": ".history.combined_20221229000112",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229000112",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000112",
+        "description": ".history.combined_20221229000112",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229000112",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000112",
+        "description": ".history.combined_20221229000112",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229000112",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000112",
+        "description": ".history.combined_20221229000112",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"inptu\")\n    time.sleep(10)\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229000112",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000117",
+        "description": ".history.combined_20221229000117",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229000117",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000117",
+        "description": ".history.combined_20221229000117",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229000117",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000117",
+        "description": ".history.combined_20221229000117",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229000117",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000117",
+        "description": ".history.combined_20221229000117",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229000117",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000117",
+        "description": ".history.combined_20221229000117",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": ".history.combined_20221229000117",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000117",
+        "description": ".history.combined_20221229000117",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229000117",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000117",
+        "description": ".history.combined_20221229000117",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229000117",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000117",
+        "description": ".history.combined_20221229000117",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229000117",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000117",
+        "description": ".history.combined_20221229000117",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229000117",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000117",
+        "description": ".history.combined_20221229000117",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229000117",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000117",
+        "description": ".history.combined_20221229000117",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"inptu\")\n    time.sleep(10)\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229000117",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000521",
+        "description": ".history.combined_20221229000521",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229000521",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000521",
+        "description": ".history.combined_20221229000521",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229000521",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000521",
+        "description": ".history.combined_20221229000521",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229000521",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000521",
+        "description": ".history.combined_20221229000521",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229000521",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000521",
+        "description": ".history.combined_20221229000521",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": ".history.combined_20221229000521",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000521",
+        "description": ".history.combined_20221229000521",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229000521",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000521",
+        "description": ".history.combined_20221229000521",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229000521",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000521",
+        "description": ".history.combined_20221229000521",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229000521",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000521",
+        "description": ".history.combined_20221229000521",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229000521",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000521",
+        "description": ".history.combined_20221229000521",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229000521",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000521",
+        "description": ".history.combined_20221229000521",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"inptu\")\n    time.sleep(10)\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229000521",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000524",
+        "description": ".history.combined_20221229000524",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229000524",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000524",
+        "description": ".history.combined_20221229000524",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229000524",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000524",
+        "description": ".history.combined_20221229000524",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229000524",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000524",
+        "description": ".history.combined_20221229000524",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229000524",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000524",
+        "description": ".history.combined_20221229000524",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": ".history.combined_20221229000524",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000524",
+        "description": ".history.combined_20221229000524",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229000524",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000524",
+        "description": ".history.combined_20221229000524",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229000524",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000524",
+        "description": ".history.combined_20221229000524",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229000524",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000524",
+        "description": ".history.combined_20221229000524",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229000524",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000524",
+        "description": ".history.combined_20221229000524",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229000524",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000524",
+        "description": ".history.combined_20221229000524",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"inptu\")\n    time.sleep(10)\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229000524",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000526",
+        "description": ".history.combined_20221229000526",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229000526",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000526",
+        "description": ".history.combined_20221229000526",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229000526",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000526",
+        "description": ".history.combined_20221229000526",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229000526",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000526",
+        "description": ".history.combined_20221229000526",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229000526",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000526",
+        "description": ".history.combined_20221229000526",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": ".history.combined_20221229000526",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000526",
+        "description": ".history.combined_20221229000526",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229000526",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000526",
+        "description": ".history.combined_20221229000526",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229000526",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000526",
+        "description": ".history.combined_20221229000526",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229000526",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000526",
+        "description": ".history.combined_20221229000526",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229000526",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000526",
+        "description": ".history.combined_20221229000526",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229000526",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000526",
+        "description": ".history.combined_20221229000526",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"inptu\")\n    time.sleep(10)\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229000526",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000630",
+        "description": ".history.combined_20221229000630",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229000630",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000630",
+        "description": ".history.combined_20221229000630",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229000630",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000630",
+        "description": ".history.combined_20221229000630",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229000630",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000630",
+        "description": ".history.combined_20221229000630",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229000630",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000630",
+        "description": ".history.combined_20221229000630",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": ".history.combined_20221229000630",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000630",
+        "description": ".history.combined_20221229000630",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229000630",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000630",
+        "description": ".history.combined_20221229000630",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229000630",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000630",
+        "description": ".history.combined_20221229000630",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229000630",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000630",
+        "description": ".history.combined_20221229000630",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229000630",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000630",
+        "description": ".history.combined_20221229000630",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229000630",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000630",
+        "description": ".history.combined_20221229000630",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"inptu\")\n    time.sleep(10)\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229000630",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000646",
+        "description": ".history.combined_20221229000646",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229000646",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000646",
+        "description": ".history.combined_20221229000646",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229000646",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000646",
+        "description": ".history.combined_20221229000646",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229000646",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000646",
+        "description": ".history.combined_20221229000646",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229000646",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000646",
+        "description": ".history.combined_20221229000646",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": ".history.combined_20221229000646",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000646",
+        "description": ".history.combined_20221229000646",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229000646",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000646",
+        "description": ".history.combined_20221229000646",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229000646",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000646",
+        "description": ".history.combined_20221229000646",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229000646",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000646",
+        "description": ".history.combined_20221229000646",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229000646",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000646",
+        "description": ".history.combined_20221229000646",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229000646",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000646",
+        "description": ".history.combined_20221229000646",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"input\")\n    time.sleep(10)\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229000646",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000749",
+        "description": ".history.combined_20221229000749",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229000749",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000749",
+        "description": ".history.combined_20221229000749",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229000749",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000749",
+        "description": ".history.combined_20221229000749",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229000749",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000749",
+        "description": ".history.combined_20221229000749",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229000749",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229000749",
+        "description": ".history.combined_20221229000749",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": ".history.combined_20221229000749",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000749",
+        "description": ".history.combined_20221229000749",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229000749",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000749",
+        "description": ".history.combined_20221229000749",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229000749",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000749",
+        "description": ".history.combined_20221229000749",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229000749",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000749",
+        "description": ".history.combined_20221229000749",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229000749",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000749",
+        "description": ".history.combined_20221229000749",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229000749",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229000749",
+        "description": ".history.combined_20221229000749",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"input\")\n    time.sleep(10)\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229000749",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001001",
+        "description": ".history.combined_20221229001001",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229001001",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001001",
+        "description": ".history.combined_20221229001001",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229001001",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001001",
+        "description": ".history.combined_20221229001001",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229001001",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001001",
+        "description": ".history.combined_20221229001001",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229001001",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001001",
+        "description": ".history.combined_20221229001001",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": ".history.combined_20221229001001",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001001",
+        "description": ".history.combined_20221229001001",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229001001",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001001",
+        "description": ".history.combined_20221229001001",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229001001",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001001",
+        "description": ".history.combined_20221229001001",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229001001",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001001",
+        "description": ".history.combined_20221229001001",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229001001",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001001",
+        "description": ".history.combined_20221229001001",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229001001",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001001",
+        "description": ".history.combined_20221229001001",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"input\")\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229001001",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001032",
+        "description": ".history.combined_20221229001032",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229001032",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001032",
+        "description": ".history.combined_20221229001032",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229001032",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001032",
+        "description": ".history.combined_20221229001032",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229001032",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001032",
+        "description": ".history.combined_20221229001032",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229001032",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001032",
+        "description": ".history.combined_20221229001032",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": ".history.combined_20221229001032",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001032",
+        "description": ".history.combined_20221229001032",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229001032",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001032",
+        "description": ".history.combined_20221229001032",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229001032",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001032",
+        "description": ".history.combined_20221229001032",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229001032",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001032",
+        "description": ".history.combined_20221229001032",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229001032",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001032",
+        "description": ".history.combined_20221229001032",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229001032",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001032",
+        "description": ".history.combined_20221229001032",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"input\")\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229001032",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001051",
+        "description": ".history.combined_20221229001051",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229001051",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001051",
+        "description": ".history.combined_20221229001051",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229001051",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001051",
+        "description": ".history.combined_20221229001051",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229001051",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001051",
+        "description": ".history.combined_20221229001051",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229001051",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001051",
+        "description": ".history.combined_20221229001051",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229001051",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001051",
+        "description": ".history.combined_20221229001051",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229001051",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001051",
+        "description": ".history.combined_20221229001051",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229001051",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001051",
+        "description": ".history.combined_20221229001051",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229001051",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001051",
+        "description": ".history.combined_20221229001051",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")",
+        "detail": ".history.combined_20221229001051",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001051",
+        "description": ".history.combined_20221229001051",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229001051",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001051",
+        "description": ".history.combined_20221229001051",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"input\")\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229001051",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001307",
+        "description": ".history.combined_20221229001307",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": ".history.combined_20221229001307",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001307",
+        "description": ".history.combined_20221229001307",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229001307",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001307",
+        "description": ".history.combined_20221229001307",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229001307",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001307",
+        "description": ".history.combined_20221229001307",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229001307",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001307",
+        "description": ".history.combined_20221229001307",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229001307",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001307",
+        "description": ".history.combined_20221229001307",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229001307",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001307",
+        "description": ".history.combined_20221229001307",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229001307",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001307",
+        "description": ".history.combined_20221229001307",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229001307",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001307",
+        "description": ".history.combined_20221229001307",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")",
+        "detail": ".history.combined_20221229001307",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001307",
+        "description": ".history.combined_20221229001307",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229001307",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001307",
+        "description": ".history.combined_20221229001307",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    global image\n    image = '___'\n    frame = input(\"input\")\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229001307",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001322",
+        "description": ".history.combined_20221229001322",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nglobal image\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229001322",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001322",
+        "description": ".history.combined_20221229001322",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229001322",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001322",
+        "description": ".history.combined_20221229001322",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229001322",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001322",
+        "description": ".history.combined_20221229001322",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229001322",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001322",
+        "description": ".history.combined_20221229001322",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229001322",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001322",
+        "description": ".history.combined_20221229001322",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nglobal image\nimage = \"___\"\ndef needimage():",
+        "detail": ".history.combined_20221229001322",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001322",
+        "description": ".history.combined_20221229001322",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229001322",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001322",
+        "description": ".history.combined_20221229001322",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229001322",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001322",
+        "description": ".history.combined_20221229001322",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")",
+        "detail": ".history.combined_20221229001322",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001322",
+        "description": ".history.combined_20221229001322",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229001322",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001322",
+        "description": ".history.combined_20221229001322",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    image = '___'\n    frame = input(\"input\")\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229001322",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001323",
+        "description": ".history.combined_20221229001323",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nglobal image\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229001323",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001323",
+        "description": ".history.combined_20221229001323",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229001323",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001323",
+        "description": ".history.combined_20221229001323",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229001323",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001323",
+        "description": ".history.combined_20221229001323",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229001323",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001323",
+        "description": ".history.combined_20221229001323",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229001323",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001323",
+        "description": ".history.combined_20221229001323",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nglobal image\nimage = \"___\"\ndef needimage():",
+        "detail": ".history.combined_20221229001323",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001323",
+        "description": ".history.combined_20221229001323",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229001323",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001323",
+        "description": ".history.combined_20221229001323",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229001323",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001323",
+        "description": ".history.combined_20221229001323",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")",
+        "detail": ".history.combined_20221229001323",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001323",
+        "description": ".history.combined_20221229001323",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229001323",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001323",
+        "description": ".history.combined_20221229001323",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    image = '___'\n    frame = input(\"input\")\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229001323",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001632",
+        "description": ".history.combined_20221229001632",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nglobal image\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": ".history.combined_20221229001632",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001632",
+        "description": ".history.combined_20221229001632",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    if image != '___':\n        return Search(image).imagesearch()[0] != -1\n    else:\n        return True\n# needimage(\"onkonobg.png\")\ndef mythread():",
+        "detail": ".history.combined_20221229001632",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001632",
+        "description": ".history.combined_20221229001632",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229001632",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001632",
+        "description": ".history.combined_20221229001632",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229001632",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001632",
+        "description": ".history.combined_20221229001632",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229001632",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001632",
+        "description": ".history.combined_20221229001632",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nglobal image\nimage = \"___\"\ndef needimage():",
+        "detail": ".history.combined_20221229001632",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001632",
+        "description": ".history.combined_20221229001632",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    if image != '___':\n        return Search(image).imagesearch()[0] != -1\n    else:\n        return True\n# needimage(\"onkonobg.png\")",
+        "detail": ".history.combined_20221229001632",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001632",
+        "description": ".history.combined_20221229001632",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229001632",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001632",
+        "description": ".history.combined_20221229001632",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")",
+        "detail": ".history.combined_20221229001632",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001632",
+        "description": ".history.combined_20221229001632",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229001632",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001632",
+        "description": ".history.combined_20221229001632",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    image = '___'\n    frame = input(\"input\")\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229001632",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001658",
+        "description": ".history.combined_20221229001658",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nglobal image\nimage = \"___\"\ndef needimage():\n    if image != '___':",
+        "detail": ".history.combined_20221229001658",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001658",
+        "description": ".history.combined_20221229001658",
+        "peekOfCode": "def needimage():\n    if image != '___':\n        return Search(image).imagesearch()[0] != -1\n    else:\n        return True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229001658",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001658",
+        "description": ".history.combined_20221229001658",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229001658",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001658",
+        "description": ".history.combined_20221229001658",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229001658",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001658",
+        "description": ".history.combined_20221229001658",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229001658",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001658",
+        "description": ".history.combined_20221229001658",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nglobal image\nimage = \"___\"\ndef needimage():",
+        "detail": ".history.combined_20221229001658",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001658",
+        "description": ".history.combined_20221229001658",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    if image != '___':\n        return Search(image).imagesearch()[0] != -1\n    else:\n        return True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": ".history.combined_20221229001658",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001658",
+        "description": ".history.combined_20221229001658",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229001658",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001658",
+        "description": ".history.combined_20221229001658",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")",
+        "detail": ".history.combined_20221229001658",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001658",
+        "description": ".history.combined_20221229001658",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229001658",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001658",
+        "description": ".history.combined_20221229001658",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    image = '___'\n    frame = input(\"input\")\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229001658",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001700",
+        "description": ".history.combined_20221229001700",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nglobal image\nimage = \"___\"\ndef needimage():\n    if image != '___':",
+        "detail": ".history.combined_20221229001700",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001700",
+        "description": ".history.combined_20221229001700",
+        "peekOfCode": "def needimage():\n    if image != '___':\n        return Search(image).imagesearch()[0] != -1\n    else:\n        return True\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break",
+        "detail": ".history.combined_20221229001700",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001700",
+        "description": ".history.combined_20221229001700",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": ".history.combined_20221229001700",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001700",
+        "description": ".history.combined_20221229001700",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
+        "detail": ".history.combined_20221229001700",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": ".history.combined_20221229001700",
+        "description": ".history.combined_20221229001700",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": ".history.combined_20221229001700",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001700",
+        "description": ".history.combined_20221229001700",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nglobal image\nimage = \"___\"\ndef needimage():",
+        "detail": ".history.combined_20221229001700",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001700",
+        "description": ".history.combined_20221229001700",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    if image != '___':\n        return Search(image).imagesearch()[0] != -1\n    else:\n        return True\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": ".history.combined_20221229001700",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001700",
+        "description": ".history.combined_20221229001700",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
+        "detail": ".history.combined_20221229001700",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001700",
+        "description": ".history.combined_20221229001700",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")",
+        "detail": ".history.combined_20221229001700",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001700",
+        "description": ".history.combined_20221229001700",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": ".history.combined_20221229001700",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": ".history.combined_20221229001700",
+        "description": ".history.combined_20221229001700",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    image = '___'\n    frame = input(\"input\")\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": ".history.combined_20221229001700",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.harrow_20221228201728",
+        "description": ".history.harrow_20221228201728",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    search = Search(\"onkonobg.png\")",
+        "detail": ".history.harrow_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.harrow_20221228201728",
+        "description": ".history.harrow_20221228201728",
+        "peekOfCode": "def mythread():\n    search = Search(\"onkonobg.png\")\n    pos = search.imagesearch()\n    if pos[0] != -1:\n        clicking(\"4\", 5, 7, 14)\n    else:\n        print(\"else\")\n        time.sleep(1)\n    if endthread:\n        mythread()",
+        "detail": ".history.harrow_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.harrow_20221228201728",
+        "description": ".history.harrow_20221228201728",
+        "peekOfCode": "keyboard = Controller()\ntime.sleep(10)\nendthread = True\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")",
+        "detail": ".history.harrow_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.harrow_20221228201728",
+        "description": ".history.harrow_20221228201728",
+        "peekOfCode": "endthread = True\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():",
+        "detail": ".history.harrow_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.harrow_20221228201728",
+        "description": ".history.harrow_20221228201728",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\n# b = threading.Thread(target=mythread, args=(lambda: endthread,))\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = False\nb.join()",
+        "detail": ".history.harrow_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.harrow_20221228201728",
+        "description": ".history.harrow_20221228201728",
+        "peekOfCode": "endthread = False\nb.join()",
+        "detail": ".history.harrow_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.harrow_20221228235733",
+        "description": ".history.harrow_20221228235733",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    search = Search(\"onkonobg.png\")",
+        "detail": ".history.harrow_20221228235733",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.harrow_20221228235733",
+        "description": ".history.harrow_20221228235733",
+        "peekOfCode": "def mythread():\n    search = Search(\"onkonobg.png\")\n    pos = search.imagesearch()\n    if pos[0] != -1:\n        clicking(\"4\", 5, 7, 14)\n    else:\n        print(\"else\")\n        time.sleep(1)\n    if endthread:\n        mythread()",
+        "detail": ".history.harrow_20221228235733",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.harrow_20221228235733",
+        "description": ".history.harrow_20221228235733",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\n# b = threading.Thread(target=mythread, args=(lambda: endthread,))\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = False\nb.join()",
+        "detail": ".history.harrow_20221228235733",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.harrow_20221228235733",
+        "description": ".history.harrow_20221228235733",
+        "peekOfCode": "endthread = False\nb.join()",
+        "detail": ".history.harrow_20221228235733",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.harrow_20221228235738",
+        "description": ".history.harrow_20221228235738",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    search = Search(\"onkonobg.png\")",
+        "detail": ".history.harrow_20221228235738",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.harrow_20221228235738",
+        "description": ".history.harrow_20221228235738",
+        "peekOfCode": "def mythread():\n    search = Search(\"onkonobg.png\")\n    pos = search.imagesearch()\n    if pos[0] != -1:\n        clicking(\"4\", 5, 7, 14)\n    else:\n        print(\"else\")\n        time.sleep(1)\n    if endthread:\n        mythread()",
+        "detail": ".history.harrow_20221228235738",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.harrow_20221228235738",
+        "description": ".history.harrow_20221228235738",
+        "peekOfCode": "keyboard = Controller()\ntime.sleep(10)\nendthread = True\nb = threading.Thread(name='background', target=mythread)\n# b = threading.Thread(target=mythread, args=(lambda: endthread,))\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = False\nb.join()",
+        "detail": ".history.harrow_20221228235738",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.harrow_20221228235738",
+        "description": ".history.harrow_20221228235738",
+        "peekOfCode": "endthread = True\nb = threading.Thread(name='background', target=mythread)\n# b = threading.Thread(target=mythread, args=(lambda: endthread,))\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = False\nb.join()",
+        "detail": ".history.harrow_20221228235738",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.harrow_20221228235738",
+        "description": ".history.harrow_20221228235738",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\n# b = threading.Thread(target=mythread, args=(lambda: endthread,))\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = False\nb.join()",
+        "detail": ".history.harrow_20221228235738",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.harrow_20221228235738",
+        "description": ".history.harrow_20221228235738",
+        "peekOfCode": "endthread = False\nb.join()",
+        "detail": ".history.harrow_20221228235738",
         "documentation": {}
     },
     {
@@ -439,9 +3240,261 @@
     {
         "label": "clicking",
         "kind": 2,
+        "importPath": ".history.nekros_terrify_20221228235725",
+        "description": ".history.nekros_terrify_20221228235725",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    while True:",
+        "detail": ".history.nekros_terrify_20221228235725",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.nekros_terrify_20221228235725",
+        "description": ".history.nekros_terrify_20221228235725",
+        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 10)\n        if endthread:\n            break\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
+        "detail": ".history.nekros_terrify_20221228235725",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228235725",
+        "description": ".history.nekros_terrify_20221228235725",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228235725",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228235725",
+        "description": ".history.nekros_terrify_20221228235725",
+        "peekOfCode": "endthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228235725",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.nekros_terrify_20221228235728",
+        "description": ".history.nekros_terrify_20221228235728",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    while True:",
+        "detail": ".history.nekros_terrify_20221228235728",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.nekros_terrify_20221228235728",
+        "description": ".history.nekros_terrify_20221228235728",
+        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 10)\n        if endthread:\n            break\nkeyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")",
+        "detail": ".history.nekros_terrify_20221228235728",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228235728",
+        "description": ".history.nekros_terrify_20221228235728",
+        "peekOfCode": "keyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
+        "detail": ".history.nekros_terrify_20221228235728",
+        "documentation": {}
+    },
+    {
+        "label": "key",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228235728",
+        "description": ".history.nekros_terrify_20221228235728",
+        "peekOfCode": "key = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228235728",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228235728",
+        "description": ".history.nekros_terrify_20221228235728",
+        "peekOfCode": "endthread = False\nsearch = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228235728",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228235728",
+        "description": ".history.nekros_terrify_20221228235728",
+        "peekOfCode": "search = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228235728",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228235728",
+        "description": ".history.nekros_terrify_20221228235728",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228235728",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228235728",
+        "description": ".history.nekros_terrify_20221228235728",
+        "peekOfCode": "endthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228235728",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.trinity_20221228201728",
+        "description": ".history.trinity_20221228201728",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    while True:",
+        "detail": ".history.trinity_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.trinity_20221228201728",
+        "description": ".history.trinity_20221228201728",
+        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 0.1)\n        if endthread:\n            break\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
+        "detail": ".history.trinity_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.trinity_20221228201728",
+        "description": ".history.trinity_20221228201728",
+        "peekOfCode": "keyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")",
+        "detail": ".history.trinity_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "key",
+        "kind": 5,
+        "importPath": ".history.trinity_20221228201728",
+        "description": ".history.trinity_20221228201728",
+        "peekOfCode": "key = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)",
+        "detail": ".history.trinity_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.trinity_20221228201728",
+        "description": ".history.trinity_20221228201728",
+        "peekOfCode": "endthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)",
+        "detail": ".history.trinity_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 5,
+        "importPath": ".history.trinity_20221228201728",
+        "description": ".history.trinity_20221228201728",
+        "peekOfCode": "search = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():",
+        "detail": ".history.trinity_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.trinity_20221228201728",
+        "description": ".history.trinity_20221228201728",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.trinity_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.trinity_20221228201728",
+        "description": ".history.trinity_20221228201728",
+        "peekOfCode": "endthread = True\nb.join()",
+        "detail": ".history.trinity_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.trinity_20221228235635",
+        "description": ".history.trinity_20221228235635",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    while True:",
+        "detail": ".history.trinity_20221228235635",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.trinity_20221228235635",
+        "description": ".history.trinity_20221228235635",
+        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 0.1)\n        if endthread:\n            break\nkeyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")",
+        "detail": ".history.trinity_20221228235635",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.trinity_20221228235635",
+        "description": ".history.trinity_20221228235635",
+        "peekOfCode": "keyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
+        "detail": ".history.trinity_20221228235635",
+        "documentation": {}
+    },
+    {
+        "label": "key",
+        "kind": 5,
+        "importPath": ".history.trinity_20221228235635",
+        "description": ".history.trinity_20221228235635",
+        "peekOfCode": "key = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.trinity_20221228235635",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.trinity_20221228235635",
+        "description": ".history.trinity_20221228235635",
+        "peekOfCode": "endthread = False\nsearch = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.trinity_20221228235635",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 5,
+        "importPath": ".history.trinity_20221228235635",
+        "description": ".history.trinity_20221228235635",
+        "peekOfCode": "search = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.trinity_20221228235635",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.trinity_20221228235635",
+        "description": ".history.trinity_20221228235635",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.trinity_20221228235635",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.trinity_20221228235635",
+        "description": ".history.trinity_20221228235635",
+        "peekOfCode": "endthread = True\nb.join()",
+        "detail": ".history.trinity_20221228235635",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
         "importPath": "combined",
         "description": "combined",
-        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nglobal image\nimage = \"___\"\ndef needimage():\n    if image != '___':",
         "detail": "combined",
         "documentation": {}
     },
@@ -450,7 +3503,7 @@
         "kind": 2,
         "importPath": "combined",
         "description": "combined",
-        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "peekOfCode": "def needimage():\n    if image != '___':\n        return Search(image).imagesearch()[0] != -1\n    else:\n        return True\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break",
         "detail": "combined",
         "documentation": {}
     },
@@ -468,7 +3521,7 @@
         "kind": 2,
         "importPath": "combined",
         "description": "combined",
-        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case _:\n            image",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":\n            image = \"___\"",
         "detail": "combined",
         "documentation": {}
     },
@@ -477,7 +3530,7 @@
         "kind": 2,
         "importPath": "combined",
         "description": "combined",
-        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
         "detail": "combined",
         "documentation": {}
     },
@@ -486,7 +3539,7 @@
         "kind": 5,
         "importPath": "combined",
         "description": "combined",
-        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nglobal image\nimage = \"___\"\ndef needimage():",
         "detail": "combined",
         "documentation": {}
     },
@@ -495,7 +3548,7 @@
         "kind": 5,
         "importPath": "combined",
         "description": "combined",
-        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    if image != '___':\n        return Search(image).imagesearch()[0] != -1\n    else:\n        return True\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
         "detail": "combined",
         "documentation": {}
     },
@@ -504,7 +3557,7 @@
         "kind": 5,
         "importPath": "combined",
         "description": "combined",
-        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case _:",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case \"nekros\":",
         "detail": "combined",
         "documentation": {}
     },
@@ -513,7 +3566,7 @@
         "kind": 5,
         "importPath": "combined",
         "description": "combined",
-        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")",
         "detail": "combined",
         "documentation": {}
     },
@@ -522,7 +3575,7 @@
         "kind": 5,
         "importPath": "combined",
         "description": "combined",
-        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        time.sleep(5)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
         "detail": "combined",
         "documentation": {}
     },
@@ -531,7 +3584,7 @@
         "kind": 5,
         "importPath": "combined",
         "description": "combined",
-        "peekOfCode": "frames = [\"trinity\", \"harrow\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"inptu\")\n    time.sleep(10)\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    image = '___'\n    frame = input(\"input\")\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
         "detail": "combined",
         "documentation": {}
     },
@@ -558,7 +3611,7 @@
         "kind": 5,
         "importPath": "harrow",
         "description": "harrow",
-        "peekOfCode": "keyboard = Controller()\ntime.sleep(10)\nendthread = True\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")",
+        "peekOfCode": "keyboard = Controller()\ntime.sleep(10)\nendthread = True\nb = threading.Thread(name='background', target=mythread)\n# b = threading.Thread(target=mythread, args=(lambda: endthread,))\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = False\nb.join()",
         "detail": "harrow",
         "documentation": {}
     },
@@ -567,7 +3620,7 @@
         "kind": 5,
         "importPath": "harrow",
         "description": "harrow",
-        "peekOfCode": "endthread = True\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():",
+        "peekOfCode": "endthread = True\nb = threading.Thread(name='background', target=mythread)\n# b = threading.Thread(target=mythread, args=(lambda: endthread,))\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = False\nb.join()",
         "detail": "harrow",
         "documentation": {}
     },
@@ -603,7 +3656,7 @@
         "kind": 2,
         "importPath": "nekros_terrify",
         "description": "nekros_terrify",
-        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 10)\n        if endthread:\n            break\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
+        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 10)\n        if endthread:\n            break\nkeyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")",
         "detail": "nekros_terrify",
         "documentation": {}
     },
@@ -612,7 +3665,7 @@
         "kind": 5,
         "importPath": "nekros_terrify",
         "description": "nekros_terrify",
-        "peekOfCode": "keyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")",
+        "peekOfCode": "keyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
         "detail": "nekros_terrify",
         "documentation": {}
     },
@@ -621,7 +3674,7 @@
         "kind": 5,
         "importPath": "nekros_terrify",
         "description": "nekros_terrify",
-        "peekOfCode": "key = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)",
+        "peekOfCode": "key = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
         "detail": "nekros_terrify",
         "documentation": {}
     },
@@ -630,7 +3683,7 @@
         "kind": 5,
         "importPath": "nekros_terrify",
         "description": "nekros_terrify",
-        "peekOfCode": "endthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)",
+        "peekOfCode": "endthread = False\nsearch = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
         "detail": "nekros_terrify",
         "documentation": {}
     },
@@ -639,7 +3692,7 @@
         "kind": 5,
         "importPath": "nekros_terrify",
         "description": "nekros_terrify",
-        "peekOfCode": "search = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():",
+        "peekOfCode": "search = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
         "detail": "nekros_terrify",
         "documentation": {}
     },
@@ -693,7 +3746,7 @@
         "kind": 2,
         "importPath": "trinity",
         "description": "trinity",
-        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 0.1)\n        if endthread:\n            break\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
+        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 0.1)\n        if endthread:\n            break\nkeyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")",
         "detail": "trinity",
         "documentation": {}
     },
@@ -702,7 +3755,7 @@
         "kind": 5,
         "importPath": "trinity",
         "description": "trinity",
-        "peekOfCode": "keyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")",
+        "peekOfCode": "keyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
         "detail": "trinity",
         "documentation": {}
     },
@@ -711,7 +3764,7 @@
         "kind": 5,
         "importPath": "trinity",
         "description": "trinity",
-        "peekOfCode": "key = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)",
+        "peekOfCode": "key = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
         "detail": "trinity",
         "documentation": {}
     },
@@ -720,7 +3773,7 @@
         "kind": 5,
         "importPath": "trinity",
         "description": "trinity",
-        "peekOfCode": "endthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)",
+        "peekOfCode": "endthread = False\nsearch = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
         "detail": "trinity",
         "documentation": {}
     },
@@ -729,7 +3782,7 @@
         "kind": 5,
         "importPath": "trinity",
         "description": "trinity",
-        "peekOfCode": "search = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():",
+        "peekOfCode": "search = Search(\"exit.png\")\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
         "detail": "trinity",
         "documentation": {}
     },

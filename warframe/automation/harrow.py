@@ -7,12 +7,6 @@ import threading
 
 import keyboard as mykeypressedboard
 
-keyboard = Controller()
-
-time.sleep(10)
-
-endthread = True
-
 
 def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):
     time.sleep(castingdelay)
@@ -38,6 +32,14 @@ def mythread():
     # if msvcrt.kbhit():
     #     if msvcrt.getch() == b'\x1b':
     #         break
+
+
+keyboard = Controller()
+
+time.sleep(10)
+
+endthread = True
+
 b = threading.Thread(name='background', target=mythread)
 # b = threading.Thread(target=mythread, args=(lambda: endthread,))
 

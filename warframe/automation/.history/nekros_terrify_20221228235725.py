@@ -26,15 +26,6 @@ def mythread():
             break
 
 
-keyboard = Controller()
-key = "2"
-
-time.sleep(10)
-
-endthread = False
-search = Search("exit.png")
-
-
 b = threading.Thread(name='background', target=mythread)
 
 b.start()

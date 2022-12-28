@@ -20,7 +20,7 @@ def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):
 
 def mythread():
     while True:
-        clicking("2", 0, 0, 10)
+        clicking("2", 0, 0, 0.1)
 
         if endthread:
             break

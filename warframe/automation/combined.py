@@ -19,17 +19,16 @@ def clicking(key, castingdelay, castingtime, cooldown):
     time.sleep(cooldown)
 
 
+global image
+
 image = "___"
 
 
 def needimage():
-    # search = Search(image)
-    # pos = search.imagesearch()
-    # return pos[0] != -1 if image != '___' else True
-    return Search(image).imagesearch()[0] != -1 if image != '___' else True
-
-
-# needimage("onkonobg.png")
+    if image != '___':
+        return Search(image).imagesearch()[0] != -1
+    else:
+        return True
 
 
 def mythread():
@@ -50,8 +49,11 @@ def clicklogic():
         case "harrow":
             image = "harrow.png"
             clicking("4", 5, 7, 14)
+        case "nekros":
+            image = "___"
+            clicking("2", 0, 0, 10)
         case _:
-            image
+            image = "___"
             return "nomatch"
 
 
@@ -65,22 +67,24 @@ def looplogic():
     if frame in frames:
         global b
         b = threading.Thread(name='background', target=mythread)
+        time.sleep(5)
         b.start()
         mykeypressedboard.wait("9")
         print("Ended")
         global endthread
         endthread = True
         b.join()
+        time.sleep(5)
+    else:
+        print("frame not in frames")
 
 
-frames = ["trinity", "harrow"]
+frames = ["trinity", "harrow", "nekros"]
 
 
 while True:
-    # global image
     image = '___'
-    frame = input("inptu")
-    time.sleep(10)
+    frame = input("input")
     print("start")
     endthread = False
     looplogic()

@@ -1,0 +1,754 @@
+[
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "screen_search",
+        "description": "screen_search",
+        "isExtraImport": true,
+        "detail": "screen_search",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Key",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "pynput.keyboard",
+        "description": "pynput.keyboard",
+        "isExtraImport": true,
+        "detail": "pynput.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "msvcrt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "msvcrt",
+        "description": "msvcrt",
+        "detail": "msvcrt",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "keyboard",
+        "description": "keyboard",
+        "detail": "keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "PROMPT",
+        "importPath": "cmd",
+        "description": "cmd",
+        "isExtraImport": true,
+        "detail": "cmd",
+        "documentation": {}
+    },
+    {
+        "label": "pyautogui",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyautogui",
+        "description": "pyautogui",
+        "detail": "pyautogui",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.nekros_terrify_20221228201728",
+        "description": ".history.nekros_terrify_20221228201728",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    while True:",
+        "detail": ".history.nekros_terrify_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.nekros_terrify_20221228201728",
+        "description": ".history.nekros_terrify_20221228201728",
+        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 0.1)\n        if endthread:\n            break\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
+        "detail": ".history.nekros_terrify_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228201728",
+        "description": ".history.nekros_terrify_20221228201728",
+        "peekOfCode": "keyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")",
+        "detail": ".history.nekros_terrify_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "key",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228201728",
+        "description": ".history.nekros_terrify_20221228201728",
+        "peekOfCode": "key = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)",
+        "detail": ".history.nekros_terrify_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228201728",
+        "description": ".history.nekros_terrify_20221228201728",
+        "peekOfCode": "endthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)",
+        "detail": ".history.nekros_terrify_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228201728",
+        "description": ".history.nekros_terrify_20221228201728",
+        "peekOfCode": "search = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():",
+        "detail": ".history.nekros_terrify_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228201728",
+        "description": ".history.nekros_terrify_20221228201728",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228201728",
+        "description": ".history.nekros_terrify_20221228201728",
+        "peekOfCode": "endthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228201728",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.nekros_terrify_20221228201858",
+        "description": ".history.nekros_terrify_20221228201858",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    while True:",
+        "detail": ".history.nekros_terrify_20221228201858",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.nekros_terrify_20221228201858",
+        "description": ".history.nekros_terrify_20221228201858",
+        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 10)\n        if endthread:\n            break\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
+        "detail": ".history.nekros_terrify_20221228201858",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228201858",
+        "description": ".history.nekros_terrify_20221228201858",
+        "peekOfCode": "keyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")",
+        "detail": ".history.nekros_terrify_20221228201858",
+        "documentation": {}
+    },
+    {
+        "label": "key",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228201858",
+        "description": ".history.nekros_terrify_20221228201858",
+        "peekOfCode": "key = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)",
+        "detail": ".history.nekros_terrify_20221228201858",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228201858",
+        "description": ".history.nekros_terrify_20221228201858",
+        "peekOfCode": "endthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)",
+        "detail": ".history.nekros_terrify_20221228201858",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228201858",
+        "description": ".history.nekros_terrify_20221228201858",
+        "peekOfCode": "search = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():",
+        "detail": ".history.nekros_terrify_20221228201858",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228201858",
+        "description": ".history.nekros_terrify_20221228201858",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228201858",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228201858",
+        "description": ".history.nekros_terrify_20221228201858",
+        "peekOfCode": "endthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228201858",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": ".history.nekros_terrify_20221228213136",
+        "description": ".history.nekros_terrify_20221228213136",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    while True:",
+        "detail": ".history.nekros_terrify_20221228213136",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": ".history.nekros_terrify_20221228213136",
+        "description": ".history.nekros_terrify_20221228213136",
+        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 10)\n        if endthread:\n            break\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
+        "detail": ".history.nekros_terrify_20221228213136",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228213136",
+        "description": ".history.nekros_terrify_20221228213136",
+        "peekOfCode": "keyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")",
+        "detail": ".history.nekros_terrify_20221228213136",
+        "documentation": {}
+    },
+    {
+        "label": "key",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228213136",
+        "description": ".history.nekros_terrify_20221228213136",
+        "peekOfCode": "key = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)",
+        "detail": ".history.nekros_terrify_20221228213136",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228213136",
+        "description": ".history.nekros_terrify_20221228213136",
+        "peekOfCode": "endthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)",
+        "detail": ".history.nekros_terrify_20221228213136",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228213136",
+        "description": ".history.nekros_terrify_20221228213136",
+        "peekOfCode": "search = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():",
+        "detail": ".history.nekros_terrify_20221228213136",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228213136",
+        "description": ".history.nekros_terrify_20221228213136",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228213136",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": ".history.nekros_terrify_20221228213136",
+        "description": ".history.nekros_terrify_20221228213136",
+        "peekOfCode": "endthread = True\nb.join()",
+        "detail": ".history.nekros_terrify_20221228213136",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": "combined",
+        "description": "combined",
+        "peekOfCode": "def clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()",
+        "detail": "combined",
+        "documentation": {}
+    },
+    {
+        "label": "needimage",
+        "kind": 2,
+        "importPath": "combined",
+        "description": "combined",
+        "peekOfCode": "def needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():",
+        "detail": "combined",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": "combined",
+        "description": "combined",
+        "peekOfCode": "def mythread():\n    print(\"inmythread\")\n    while needimage():\n        if endthread or \"nomatch\" == clicklogic():\n            break\nframe = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":",
+        "detail": "combined",
+        "documentation": {}
+    },
+    {
+        "label": "clicklogic",
+        "kind": 2,
+        "importPath": "combined",
+        "description": "combined",
+        "peekOfCode": "def clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case _:\n            image",
+        "detail": "combined",
+        "documentation": {}
+    },
+    {
+        "label": "looplogic",
+        "kind": 2,
+        "importPath": "combined",
+        "description": "combined",
+        "peekOfCode": "def looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread\n        endthread = True",
+        "detail": "combined",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": "combined",
+        "description": "combined",
+        "peekOfCode": "keyboard = Controller()\ndef clicking(key, castingdelay, castingtime, cooldown):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    time.sleep(castingtime)\n    time.sleep(cooldown)\nimage = \"___\"\ndef needimage():\n    # search = Search(image)",
+        "detail": "combined",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": "combined",
+        "description": "combined",
+        "peekOfCode": "image = \"___\"\ndef needimage():\n    # search = Search(image)\n    # pos = search.imagesearch()\n    # return pos[0] != -1 if image != '___' else True\n    return Search(image).imagesearch()[0] != -1 if image != '___' else True\n# needimage(\"onkonobg.png\")\ndef mythread():\n    print(\"inmythread\")\n    while needimage():",
+        "detail": "combined",
+        "documentation": {}
+    },
+    {
+        "label": "frame",
+        "kind": 5,
+        "importPath": "combined",
+        "description": "combined",
+        "peekOfCode": "frame = \"trinity\"\ndef clicklogic():\n    global image\n    match frame:\n        case \"trinity\":\n            clicking(\"2\", 0, 0, 0.1)\n        case \"harrow\":\n            image = \"harrow.png\"\n            clicking(\"4\", 5, 7, 14)\n        case _:",
+        "detail": "combined",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "combined",
+        "description": "combined",
+        "peekOfCode": "b = \"\"\nendthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")",
+        "detail": "combined",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": "combined",
+        "description": "combined",
+        "peekOfCode": "endthread = False\ndef looplogic():\n    print(\"inlooplogic\")\n    if frame in frames:\n        global b\n        b = threading.Thread(name='background', target=mythread)\n        b.start()\n        mykeypressedboard.wait(\"9\")\n        print(\"Ended\")\n        global endthread",
+        "detail": "combined",
+        "documentation": {}
+    },
+    {
+        "label": "frames",
+        "kind": 5,
+        "importPath": "combined",
+        "description": "combined",
+        "peekOfCode": "frames = [\"trinity\", \"harrow\"]\nwhile True:\n    # global image\n    image = '___'\n    frame = input(\"inptu\")\n    time.sleep(10)\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
+        "detail": "combined",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": "harrow",
+        "description": "harrow",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    search = Search(\"onkonobg.png\")",
+        "detail": "harrow",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": "harrow",
+        "description": "harrow",
+        "peekOfCode": "def mythread():\n    search = Search(\"onkonobg.png\")\n    pos = search.imagesearch()\n    if pos[0] != -1:\n        clicking(\"4\", 5, 7, 14)\n    else:\n        print(\"else\")\n        time.sleep(1)\n    if endthread:\n        mythread()",
+        "detail": "harrow",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": "harrow",
+        "description": "harrow",
+        "peekOfCode": "keyboard = Controller()\ntime.sleep(10)\nendthread = True\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")",
+        "detail": "harrow",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": "harrow",
+        "description": "harrow",
+        "peekOfCode": "endthread = True\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():",
+        "detail": "harrow",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "harrow",
+        "description": "harrow",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\n# b = threading.Thread(target=mythread, args=(lambda: endthread,))\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = False\nb.join()",
+        "detail": "harrow",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": "harrow",
+        "description": "harrow",
+        "peekOfCode": "endthread = False\nb.join()",
+        "detail": "harrow",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": "nekros_terrify",
+        "description": "nekros_terrify",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    while True:",
+        "detail": "nekros_terrify",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": "nekros_terrify",
+        "description": "nekros_terrify",
+        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 10)\n        if endthread:\n            break\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
+        "detail": "nekros_terrify",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": "nekros_terrify",
+        "description": "nekros_terrify",
+        "peekOfCode": "keyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")",
+        "detail": "nekros_terrify",
+        "documentation": {}
+    },
+    {
+        "label": "key",
+        "kind": 5,
+        "importPath": "nekros_terrify",
+        "description": "nekros_terrify",
+        "peekOfCode": "key = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)",
+        "detail": "nekros_terrify",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": "nekros_terrify",
+        "description": "nekros_terrify",
+        "peekOfCode": "endthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)",
+        "detail": "nekros_terrify",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 5,
+        "importPath": "nekros_terrify",
+        "description": "nekros_terrify",
+        "peekOfCode": "search = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():",
+        "detail": "nekros_terrify",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "nekros_terrify",
+        "description": "nekros_terrify",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": "nekros_terrify",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": "nekros_terrify",
+        "description": "nekros_terrify",
+        "peekOfCode": "endthread = True\nb.join()",
+        "detail": "nekros_terrify",
+        "documentation": {}
+    },
+    {
+        "label": "testclass",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class testclass:\n    i = 123456\n    def f(self):\n        return \"helloworld\"\nx = testclass()\nprint(x.f())",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "x = testclass()\nprint(x.f())",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "clicking",
+        "kind": 2,
+        "importPath": "trinity",
+        "description": "trinity",
+        "peekOfCode": "def clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():\n    while True:",
+        "detail": "trinity",
+        "documentation": {}
+    },
+    {
+        "label": "mythread",
+        "kind": 2,
+        "importPath": "trinity",
+        "description": "trinity",
+        "peekOfCode": "def mythread():\n    while True:\n        clicking(\"2\", 0, 0, 0.1)\n        if endthread:\n            break\nb = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True",
+        "detail": "trinity",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 5,
+        "importPath": "trinity",
+        "description": "trinity",
+        "peekOfCode": "keyboard = Controller()\nkey = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")",
+        "detail": "trinity",
+        "documentation": {}
+    },
+    {
+        "label": "key",
+        "kind": 5,
+        "importPath": "trinity",
+        "description": "trinity",
+        "peekOfCode": "key = \"2\"\ntime.sleep(10)\nendthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)",
+        "detail": "trinity",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": "trinity",
+        "description": "trinity",
+        "peekOfCode": "endthread = False\nsearch = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)",
+        "detail": "trinity",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 5,
+        "importPath": "trinity",
+        "description": "trinity",
+        "peekOfCode": "search = Search(\"exit.png\")\ndef clicking(key=1, castingdelay=0, castingtime=0, cooldown=0):\n    time.sleep(castingdelay)\n    keyboard.press(key)\n    keyboard.release(key)\n    print(\"delay for casting\")\n    time.sleep(castingtime)\n    print(\"delay for cooldown\")\n    time.sleep(cooldown)\ndef mythread():",
+        "detail": "trinity",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "trinity",
+        "description": "trinity",
+        "peekOfCode": "b = threading.Thread(name='background', target=mythread)\nb.start()\nmykeypressedboard.wait(\"9\")\nprint(\"Ended\")\nendthread = True\nb.join()",
+        "detail": "trinity",
+        "documentation": {}
+    },
+    {
+        "label": "endthread",
+        "kind": 5,
+        "importPath": "trinity",
+        "description": "trinity",
+        "peekOfCode": "endthread = True\nb.join()",
+        "detail": "trinity",
+        "documentation": {}
+    }
+]

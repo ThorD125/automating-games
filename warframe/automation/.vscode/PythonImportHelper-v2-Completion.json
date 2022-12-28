@@ -997,6 +997,24 @@
         "documentation": {}
     },
     {
+        "label": "win32gui",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "win32gui",
+        "description": "win32gui",
+        "detail": "win32gui",
+        "documentation": {}
+    },
+    {
+        "label": "pywin32_system32",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pywin32_system32",
+        "description": "pywin32_system32",
+        "detail": "pywin32_system32",
+        "documentation": {}
+    },
+    {
         "label": "clicking",
         "kind": 2,
         "importPath": ".history.combined_20221228201728",
@@ -2878,6 +2896,663 @@
         "documentation": {}
     },
     {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229002402",
+        "description": ".history.easyclicktesting_20221229002402",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229002402",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229002410",
+        "description": ".history.easyclicktesting_20221229002410",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229002410",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229002411",
+        "description": ".history.easyclicktesting_20221229002411",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229002411",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229002415",
+        "description": ".history.easyclicktesting_20221229002415",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229002415",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229002537",
+        "description": ".history.easyclicktesting_20221229002537",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229002537",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229002816",
+        "description": ".history.easyclicktesting_20221229002816",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229002816",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229002819",
+        "description": ".history.easyclicktesting_20221229002819",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229002819",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229002834",
+        "description": ".history.easyclicktesting_20221229002834",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229002834",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003011",
+        "description": ".history.easyclicktesting_20221229003011",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003011",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003018",
+        "description": ".history.easyclicktesting_20221229003018",
+        "peekOfCode": "notepad_handle = pywin32_system32.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\npywin32_system32.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003018",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003032",
+        "description": ".history.easyclicktesting_20221229003032",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003032",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003033",
+        "description": ".history.easyclicktesting_20221229003033",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003033",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003042",
+        "description": ".history.easyclicktesting_20221229003042",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003042",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003311",
+        "description": ".history.easyclicktesting_20221229003311",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003311",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003322",
+        "description": ".history.easyclicktesting_20221229003322",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003322",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003323",
+        "description": ".history.easyclicktesting_20221229003323",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003323",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003324",
+        "description": ".history.easyclicktesting_20221229003324",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003324",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003417",
+        "description": ".history.easyclicktesting_20221229003417",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003417",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003458",
+        "description": ".history.easyclicktesting_20221229003458",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None,)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"Notepad\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003458",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003621",
+        "description": ".history.easyclicktesting_20221229003621",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003621",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003646",
+        "description": ".history.easyclicktesting_20221229003646",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003646",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003859",
+        "description": ".history.easyclicktesting_20221229003859",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\nprint(notepad_handle)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():",
+        "detail": ".history.easyclicktesting_20221229003859",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003923",
+        "description": ".history.easyclicktesting_20221229003923",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\nprint(\"efesf\")\nprint(notepad_handle)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")",
+        "detail": ".history.easyclicktesting_20221229003923",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003928",
+        "description": ".history.easyclicktesting_20221229003928",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\nprint(\"efesf\")\nprint(notepad_handle)\nprint(\"efesf\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)",
+        "detail": ".history.easyclicktesting_20221229003928",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003932",
+        "description": ".history.easyclicktesting_20221229003932",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\nprint(notepad_handle)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():",
+        "detail": ".history.easyclicktesting_20221229003932",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003935",
+        "description": ".history.easyclicktesting_20221229003935",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229003935",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229003953",
+        "description": ".history.easyclicktesting_20221229003953",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\nwin32gui.GetForegroundWindow()\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():",
+        "detail": ".history.easyclicktesting_20221229003953",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004001",
+        "description": ".history.easyclicktesting_20221229004001",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\nwindow = win32gui.GetForegroundWindow()\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():",
+        "detail": ".history.easyclicktesting_20221229004001",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004001",
+        "description": ".history.easyclicktesting_20221229004001",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229004001",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004006",
+        "description": ".history.easyclicktesting_20221229004006",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\nwindow = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")",
+        "detail": ".history.easyclicktesting_20221229004006",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004006",
+        "description": ".history.easyclicktesting_20221229004006",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\ntime.sleep(3)\npyautogui.press(\"{NUMPAD2}\")\n# def click():",
+        "detail": ".history.easyclicktesting_20221229004006",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004024",
+        "description": ".history.easyclicktesting_20221229004024",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")",
+        "detail": ".history.easyclicktesting_20221229004024",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004024",
+        "description": ".history.easyclicktesting_20221229004024",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(notepad_handle)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229004024",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004044",
+        "description": ".history.easyclicktesting_20221229004044",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(v)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")",
+        "detail": ".history.easyclicktesting_20221229004044",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004044",
+        "description": ".history.easyclicktesting_20221229004044",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(v)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229004044",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004049",
+        "description": ".history.easyclicktesting_20221229004049",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(window)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")",
+        "detail": ".history.easyclicktesting_20221229004049",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004049",
+        "description": ".history.easyclicktesting_20221229004049",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(window)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229004049",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004108",
+        "description": ".history.easyclicktesting_20221229004108",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")",
+        "detail": ".history.easyclicktesting_20221229004108",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004108",
+        "description": ".history.easyclicktesting_20221229004108",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229004108",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004141",
+        "description": ".history.easyclicktesting_20221229004141",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')",
+        "detail": ".history.easyclicktesting_20221229004141",
+        "documentation": {}
+    },
+    {
+        "label": "oldwindow",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004141",
+        "description": ".history.easyclicktesting_20221229004141",
+        "peekOfCode": "oldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")",
+        "detail": ".history.easyclicktesting_20221229004141",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004141",
+        "description": ".history.easyclicktesting_20221229004141",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(window)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229004141",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004202",
+        "description": ".history.easyclicktesting_20221229004202",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(odlwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')",
+        "detail": ".history.easyclicktesting_20221229004202",
+        "documentation": {}
+    },
+    {
+        "label": "oldwindow",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004202",
+        "description": ".history.easyclicktesting_20221229004202",
+        "peekOfCode": "oldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(odlwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")",
+        "detail": ".history.easyclicktesting_20221229004202",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004202",
+        "description": ".history.easyclicktesting_20221229004202",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(odlwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229004202",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004204",
+        "description": ".history.easyclicktesting_20221229004204",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')",
+        "detail": ".history.easyclicktesting_20221229004204",
+        "documentation": {}
+    },
+    {
+        "label": "oldwindow",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004204",
+        "description": ".history.easyclicktesting_20221229004204",
+        "peekOfCode": "oldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")",
+        "detail": ".history.easyclicktesting_20221229004204",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004204",
+        "description": ".history.easyclicktesting_20221229004204",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229004204",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004225",
+        "description": ".history.easyclicktesting_20221229004225",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')",
+        "detail": ".history.easyclicktesting_20221229004225",
+        "documentation": {}
+    },
+    {
+        "label": "oldwindow",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004225",
+        "description": ".history.easyclicktesting_20221229004225",
+        "peekOfCode": "oldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)",
+        "detail": ".history.easyclicktesting_20221229004225",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004225",
+        "description": ".history.easyclicktesting_20221229004225",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(\"2623744\")\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)\npyautogui.press(\"{NUMPAD2}\")\n# def click():",
+        "detail": ".history.easyclicktesting_20221229004225",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004323",
+        "description": ".history.easyclicktesting_20221229004323",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Unitled - Notepad\")\nwarframeapp = \"2623744\"\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')",
+        "detail": ".history.easyclicktesting_20221229004323",
+        "documentation": {}
+    },
+    {
+        "label": "warframeapp",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004323",
+        "description": ".history.easyclicktesting_20221229004323",
+        "peekOfCode": "warframeapp = \"2623744\"\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')",
+        "detail": ".history.easyclicktesting_20221229004323",
+        "documentation": {}
+    },
+    {
+        "label": "oldwindow",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004323",
+        "description": ".history.easyclicktesting_20221229004323",
+        "peekOfCode": "oldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)",
+        "detail": ".history.easyclicktesting_20221229004323",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004323",
+        "description": ".history.easyclicktesting_20221229004323",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)\npyautogui.press(\"{NUMPAD2}\")\n# def click():",
+        "detail": ".history.easyclicktesting_20221229004323",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004329",
+        "description": ".history.easyclicktesting_20221229004329",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\nwarframeapp = \"2623744\"\nwarframeapp = \"2623744\"\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window",
+        "detail": ".history.easyclicktesting_20221229004329",
+        "documentation": {}
+    },
+    {
+        "label": "warframeapp",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004329",
+        "description": ".history.easyclicktesting_20221229004329",
+        "peekOfCode": "warframeapp = \"2623744\"\nwarframeapp = \"2623744\"\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')",
+        "detail": ".history.easyclicktesting_20221229004329",
+        "documentation": {}
+    },
+    {
+        "label": "warframeapp",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004329",
+        "description": ".history.easyclicktesting_20221229004329",
+        "peekOfCode": "warframeapp = \"2623744\"\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')",
+        "detail": ".history.easyclicktesting_20221229004329",
+        "documentation": {}
+    },
+    {
+        "label": "oldwindow",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004329",
+        "description": ".history.easyclicktesting_20221229004329",
+        "peekOfCode": "oldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)",
+        "detail": ".history.easyclicktesting_20221229004329",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004329",
+        "description": ".history.easyclicktesting_20221229004329",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)\npyautogui.press(\"{NUMPAD2}\")\n# def click():",
+        "detail": ".history.easyclicktesting_20221229004329",
+        "documentation": {}
+    },
+    {
+        "label": "notepad_handle",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004336",
+        "description": ".history.easyclicktesting_20221229004336",
+        "peekOfCode": "notepad_handle = win32gui.FindWindow(None, \"Notepad\")\nwarframeapp = \"2623744\"\n# warframeapp = win32gui.FindWindow(None, \"Notepad\")\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window",
+        "detail": ".history.easyclicktesting_20221229004336",
+        "documentation": {}
+    },
+    {
+        "label": "warframeapp",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004336",
+        "description": ".history.easyclicktesting_20221229004336",
+        "peekOfCode": "warframeapp = \"2623744\"\n# warframeapp = win32gui.FindWindow(None, \"Notepad\")\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')",
+        "detail": ".history.easyclicktesting_20221229004336",
+        "documentation": {}
+    },
+    {
+        "label": "oldwindow",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004336",
+        "description": ".history.easyclicktesting_20221229004336",
+        "peekOfCode": "oldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)",
+        "detail": ".history.easyclicktesting_20221229004336",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004336",
+        "description": ".history.easyclicktesting_20221229004336",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)\npyautogui.press(\"{NUMPAD2}\")\n# def click():",
+        "detail": ".history.easyclicktesting_20221229004336",
+        "documentation": {}
+    },
+    {
+        "label": "warframeapp",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004339",
+        "description": ".history.easyclicktesting_20221229004339",
+        "peekOfCode": "warframeapp = \"2623744\"\n# warframeapp = win32gui.FindWindow(None, \"Notepad\")\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')",
+        "detail": ".history.easyclicktesting_20221229004339",
+        "documentation": {}
+    },
+    {
+        "label": "oldwindow",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004339",
+        "description": ".history.easyclicktesting_20221229004339",
+        "peekOfCode": "oldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nwindow = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)",
+        "detail": ".history.easyclicktesting_20221229004339",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004339",
+        "description": ".history.easyclicktesting_20221229004339",
+        "peekOfCode": "window = win32gui.GetForegroundWindow()\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)\npyautogui.press(\"{NUMPAD2}\")\n# def click():",
+        "detail": ".history.easyclicktesting_20221229004339",
+        "documentation": {}
+    },
+    {
+        "label": "warframeapp",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004351",
+        "description": ".history.easyclicktesting_20221229004351",
+        "peekOfCode": "warframeapp = \"2623744\"\n# warframeapp = win32gui.FindWindow(None, \"Notepad\")\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')",
+        "detail": ".history.easyclicktesting_20221229004351",
+        "documentation": {}
+    },
+    {
+        "label": "oldwindow",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004351",
+        "description": ".history.easyclicktesting_20221229004351",
+        "peekOfCode": "oldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nprint(oldwindow)\n# Set the focus to the Notepad window\nwin32gui.SetForegroundWindow(warframeapp)\n# Send the key press event to the Notepad window\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)\npyautogui.press(\"{NUMPAD2}\")",
+        "detail": ".history.easyclicktesting_20221229004351",
+        "documentation": {}
+    },
+    {
+        "label": "warframeapp",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004358",
+        "description": ".history.easyclicktesting_20221229004358",
+        "peekOfCode": "warframeapp = \"2623744\"\n# warframeapp = win32gui.FindWindow(None, \"Notepad\")\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nprint(oldwindow)\nwin32gui.SetForegroundWindow(warframeapp)\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)\npyautogui.press(\"{NUMPAD2}\")",
+        "detail": ".history.easyclicktesting_20221229004358",
+        "documentation": {}
+    },
+    {
+        "label": "oldwindow",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004358",
+        "description": ".history.easyclicktesting_20221229004358",
+        "peekOfCode": "oldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nprint(oldwindow)\nwin32gui.SetForegroundWindow(warframeapp)\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)\npyautogui.press(\"{NUMPAD2}\")\n# def click():\n#     pyautogui.press(\"NUM2\")",
+        "detail": ".history.easyclicktesting_20221229004358",
+        "documentation": {}
+    },
+    {
+        "label": "warframeapp",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004409",
+        "description": ".history.easyclicktesting_20221229004409",
+        "peekOfCode": "warframeapp = \"2623744\"\n# warframeapp = win32gui.FindWindow(None, \"Notepad\")\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nprint(oldwindow)\nwin32gui.SetForegroundWindow(warframeapp)\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)\n# def click():",
+        "detail": ".history.easyclicktesting_20221229004409",
+        "documentation": {}
+    },
+    {
+        "label": "oldwindow",
+        "kind": 5,
+        "importPath": ".history.easyclicktesting_20221229004409",
+        "description": ".history.easyclicktesting_20221229004409",
+        "peekOfCode": "oldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nprint(oldwindow)\nwin32gui.SetForegroundWindow(warframeapp)\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)\n# def click():\n#     pyautogui.press(\"NUM2\")\n#     click()",
+        "detail": ".history.easyclicktesting_20221229004409",
+        "documentation": {}
+    },
+    {
         "label": "clicking",
         "kind": 2,
         "importPath": ".history.harrow_20221228201728",
@@ -3586,6 +4261,24 @@
         "description": "combined",
         "peekOfCode": "frames = [\"trinity\", \"harrow\", \"nekros\"]\nwhile True:\n    image = '___'\n    frame = input(\"input\")\n    print(\"start\")\n    endthread = False\n    looplogic()\n    print(\"end\")",
         "detail": "combined",
+        "documentation": {}
+    },
+    {
+        "label": "warframeapp",
+        "kind": 5,
+        "importPath": "easyclicktesting",
+        "description": "easyclicktesting",
+        "peekOfCode": "warframeapp = \"2623744\"\n# warframeapp = win32gui.FindWindow(None, \"Notepad\")\noldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nprint(oldwindow)\nwin32gui.SetForegroundWindow(warframeapp)\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)\n# def click():",
+        "detail": "easyclicktesting",
+        "documentation": {}
+    },
+    {
+        "label": "oldwindow",
+        "kind": 5,
+        "importPath": "easyclicktesting",
+        "description": "easyclicktesting",
+        "peekOfCode": "oldwindow = win32gui.GetForegroundWindow()\ntime.sleep(3)\nprint(oldwindow)\nwin32gui.SetForegroundWindow(warframeapp)\nkeyboard.press('a')\nkeyboard.release('a')\nwin32gui.SetForegroundWindow(oldwindow)\n# def click():\n#     pyautogui.press(\"NUM2\")\n#     click()",
+        "detail": "easyclicktesting",
         "documentation": {}
     },
     {
